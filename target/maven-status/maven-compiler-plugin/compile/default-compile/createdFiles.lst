@@ -1,0 +1,8 @@
+com/example/demo/config/AppInitializer.class
+com/example/demo/DemoApplication.class
+com/example/demo/service/ApiService.class
+com/example/demo/dto/GenerateWebhookResponse.class
+com/example/demo/dto/User.class
+com/example/demo/config/RestTemplateConfig.class
+com/example/demo/dto/GenerateWebhookRequest.class
+com/example/demo/dto/TestWebhookRequest.class

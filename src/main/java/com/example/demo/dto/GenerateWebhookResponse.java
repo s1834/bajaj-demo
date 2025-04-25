@@ -5,9 +5,8 @@ import java.util.Map;
 public class GenerateWebhookResponse {
     private String webhook;
     private String accessToken;
-    private Map<String, Object> data; // Changed to Map to handle dynamic structure
+    private Map<String, Object> data;
 
-    // Getters and setters
     public String getWebhook() { return webhook; }
     public void setWebhook(String webhook) { this.webhook = webhook; }
     public String getAccessToken() { return accessToken; }

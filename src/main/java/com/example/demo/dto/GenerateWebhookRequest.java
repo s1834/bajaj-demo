@@ -5,7 +5,6 @@ public class GenerateWebhookRequest {
     private String regNo;
     private String email;
 
-    // Getters and setters
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
     public String getRegNo() { return regNo; }
